@@ -4,27 +4,27 @@
 
 1. Instalar dependencias
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 2. Iniciar el proyecto
 
-   ```bash
-   npx expo run:ios
-   ```
+```bash
+npx expo run:ios
+```
 
-   or
+or
 
-   ```bash
-   npx expo run:android
-   ```
+```bash
+npx expo run:android
+```
 
-  3. Para correr los tests:
+3. Para correr los tests:
 
-   ```bash
-   npm run test
-   ```
+```bash
+npm run test
+```
 
 # Decisiones
 
