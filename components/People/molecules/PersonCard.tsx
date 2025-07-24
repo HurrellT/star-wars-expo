@@ -21,7 +21,7 @@ export function PersonCard({ person }: PersonCardProps) {
   return (
     <Pressable
       onPress={() => router.push(`/person/${extractIdFromUrl(person.url)}`)}
-      className="mb-4"
+      className="my-2 mx-4"
     >
       <Card className="w-full">
         <CardHeader>
