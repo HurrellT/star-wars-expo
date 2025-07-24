@@ -5,7 +5,7 @@ import CapitalizedText from "~/components/common/atoms/CapitalizedText";
 import PersonDetailItem from "~/components/People/atoms/PersonDetailItem";
 import PersonRelatedItemsSection from "~/components/People/molecules/PersonRelatedItemsSection";
 import { Card, CardContent, CardHeader } from "~/components/ui/card";
-import Chip from "~/components/ui/Chip";
+import Chip from "~/components/common/atoms/Chip";
 import { Text } from "~/components/ui/text";
 import { personQueryOptions } from "~/services/people/people";
 import { Person } from "~/services/people/peopleSchema";

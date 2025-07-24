@@ -1,7 +1,7 @@
 import React from 'react';
 import { View } from 'react-native';
 import { Text } from '~/components/ui/text';
-import Chip from '~/components/ui/Chip';
+import Chip from '~/components/common/atoms/Chip';
 import { extractIdFromUrl } from '~/utils/personUtils';
 
 type RelatedItemsSectionProps = {
