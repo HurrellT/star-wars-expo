@@ -39,7 +39,7 @@
 
 ## Estructura de carpetas
 Opté por una estructura de carpetas para los componentes siguiendo la convención de Atomic Design, ya que me parece una forma de organizar los componentes que permite una mejor escalabilidad y reutilización. Sin embargo, también creo que es importante adaptarse a las necesidades del proyecto, por lo tanto decidí separar por casos de uso (en este ejemplo, People), ya que en este caso hay componentes particulares para lo que son las personas. Me parece una buena forma de organizar los componentes y mantener la consistencia en el proyecto, y hacerlo más fácil de entender y mantener a largo plazo y a medida que el proyecto crezca.
-A su vez, dada la organización de carpetas propuesta por React Native Reusables, hay diferencias respecto a la estructura de carpetas del proyecto de Next.js, pero se mantuvo la misma lógica de organización por casos de uso y Atomic Design.
+A su vez, dada la organización de carpetas propuesta por React Native Reusables, hay diferencias respecto a la estructura de carpetas del proyecto de Next.js, pero se mantuvo la misma lógica de organización por casos de uso y Atomic Design. Sin embargo esto es algo que podría reestructurarse para adaptarse a la estructura propia planteada. En este caso no lo hice ya que me pareció buena idea mantener los componentes de React Native Reusables separados de los componentes propios del proyecto.
 
 ```
 star-wars-expo/
